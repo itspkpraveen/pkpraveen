@@ -1,0 +1,38 @@
+.cbox{
+    border: 3px solid;
+}
+/* .arow{
+    border: 10px solid yellow;
+}
+.adiv{
+    height: 60px;
+    background-color: red;
+}
+.bdiv{
+    height: 60px;
+    background-color: gray;
+}
+.cdiv{
+    height: 60px;
+    background-color: chocolate;
+}
+.ddiv{
+    height: 60px;
+    background-color: green;
+}  
+.first{
+    height: 300px;
+    background-color:red ;
+} */
+.bcol{
+    border: 3px solid;
+}
+.ccol{
+    border: 3px solid red;
+}
+.dcol{
+    border: 3px solid rgb(81, 19, 139);
+}
+.e{
+    border: 3px greenyellow;
+}
